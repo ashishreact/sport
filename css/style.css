@@ -1,0 +1,157 @@
+body{
+    background-color: #01021F;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+.menu {
+    gap :20px;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu  ul li{
+    float: left;
+    
+}
+
+.menu  li a{
+    text-decoration: none;
+    color: white;
+}
+
+.hero_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.hero_right{
+    width: 600px;
+    text-align: justify;
+}
+
+
+.fcontainer{
+    display: flex;
+    width: 100% ;
+    justify-content: space-between;
+}
+
+.fitem{
+    width: 277px;
+    height: 346px;
+    border: 1px solid #902CF2;
+    border-radius: 12px;
+
+}
+
+.img_f img{
+    width: 229px;
+    height: 250px;
+    margin: 24px;
+    border-radius: 8PX;
+}
+
+ .fitems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 277px;
+    height: 346px;
+    border: 1px solid #902CF2;
+    border-radius: 12px;
+}
+
+.title{
+    text-align: center;
+}
+
+.fcontainer1{
+    display: flex;
+    width: 100% ;
+    justify-content: space-between;
+}
+
+.fitems1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 277px;
+    height: 216px;
+    border: 1px solid #902CF2;
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
+
+.fitems1 h5{
+    text-align: center;
+    margin-top: 30px;
+}
+    
+.fcontainer2{
+    display: flex;
+   
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #902CF2;
+}
+
+.f_right{
+    display: flex;
+    text-align: right;
+    margin-left: 200px;
+}
+
+.mrleft{
+    margin-left: 20px;
+}
+
+.mmenu{
+    display: flex;
+    
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+.footer{
+    display: flex;
+    margin-top: 30px;
+}
+
+.menu1{
+    display: flex;
+    gap :20px;
+    list-style: none;
+    margin: 0px;
+    margin-left: 450px;
+    padding: 0px;
+}
+.menu1  ul li{
+    float: left;
+    
+}
+
+.menu1  li a{
+    text-decoration: none;
+    color: white;
+}
+
+.foo_right i{
+    margin-left: 50px;
+}
+
+.icon{
+    margin-left: 390px;
+    margin-top: 30px;
+}
+
+
+.menu  li a:hover{
+    text-decoration: none;
+    background-color: #902CF2;
+    border-radius: 36px;
+}
